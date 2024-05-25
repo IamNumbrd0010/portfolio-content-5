@@ -1,0 +1,28 @@
+title {color: red;}
+
+body {
+    color:red;
+    background: url(Miraculous-Ladybug-Theme-Song.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h3 {
+    color: gold;
+}
+
+div {
+    color: blueviolet;
+}
+span {
+    color: orange;
+}
+table {
+    color: yellowgreen;
+}
+table thead {
+    color: blue;
+}
+table tr td {
+    color: red;
+}
